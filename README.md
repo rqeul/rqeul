@@ -27,7 +27,7 @@ Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar ferram
 
 ### 🌸 Minha Stack
 
-| Sólida Base Back-End | Front-End | Ferramentas & Paixão |
+| Base Sólida Back-End | Front-End | Ferramentas & Paixão |
 | :---: | :---: | :---: |
 | ![Java](https://img.shields.io/badge/java-FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-FF1493.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![MySQL](https://img.shields.io/badge/mysql-FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white) | |
