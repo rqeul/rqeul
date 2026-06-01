@@ -20,7 +20,6 @@ Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar ferram
 * 🌱 Atualmente focando no estudo de **Java e SQL**, construindo bases sólidas em **HTML, CSS, JavaScript, e C**.
 * 🎮 Fora do código, sou gamer por natureza, desde o berço. Adoro jogar no meu tempo livre. Às vezes rola um estresse com Valorant e afins, mas acontece.🤭
 * 🎀 Adoro a estética coquette e acredito que a tecnologia também pode ter muito estilo!
-* ✨ **Curiosidade:** Já me avisaram que entrar na TI é que nem casar com os livros de estudos pro resto da vida, e eu já disse 'sim' pro altar!😂
 * 🤝 **Oportunidades:** Estou procurando ativamente uma oportunidade de estágio voltada para o back-end. Desejo aplicar meus conhecimentos, de forma a contribuir e aprender continuamente. Estou à disposição para conexões!
 
 <br>
