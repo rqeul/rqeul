@@ -18,8 +18,8 @@
 Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar ferramentas que facilitem a resolução dos mais variados tipos de problemas, de forma a evoluir tanto profissionalmente como pessoalmente. Meu objetivo principal é me especializar no back-end - área que me desperta um interesse incrível e uma vontade incessante de aprender.
 
 * 🌱 Atualmente focando no estudo de **Java e SQL**, construindo bases sólidas em **HTML, CSS, JavaScript, e C**.
-* 🎮 Fora do código, sou gamer por natureza, desde o berço. Adoro jogar no meu tempo livre. Às vezes rola um estresse com Valorant e afins, mas acontece.🤭
-* 🎀 Adoro a estética coquette e acredito que a tecnologia também pode ter muito estilo!
+* 🎮 Fora do código, sou gamer por natureza e faço lives na roxinha: twitch.tv/chocogirl___ -> lá você encontrará gameplay de todo jogo possível!
+* 🎀 Adoro a estética coquette e acredito que a tecnologia também pode ter muito estilo.
 * 🤝 **Oportunidades:** Estou procurando ativamente uma oportunidade de estágio voltada para o back-end. Desejo aplicar meus conhecimentos, de forma a contribuir e aprender continuamente. Estou à disposição para conexões!
 
 <br>
