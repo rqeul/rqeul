@@ -23,16 +23,20 @@ Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar soluç
 
 <br>
 
-### 🌸 Minha Stack
+### 🌸 Back-End
+![Java](...)
+![Spring Boot](...)
+![Spring Data JPA](...)
+![REST API](...)
+![MySQL](...)
+![JUnit 5](...)
+![C](...)
 
-|                                                      Base Sólida Back-End                                                     |                                                        Front-End                                                        |                                             Ferramentas                                            |
-| :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|            ![Java](https://img.shields.io/badge/java-FF69B4.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)           |         ![HTML5](https://img.shields.io/badge/html5-FFB6C1.svg?style=for-the-badge\&logo=html5\&logoColor=white)        |      ![Git](https://img.shields.io/badge/git-FF1493.svg?style=for-the-badge\&logo=git\&logoColor=white)     |
-|   ![Spring Boot](https://img.shields.io/badge/spring_boot-FF69B4.svg?style=for-the-badge\&logo=springboot\&logoColor=white)   |          ![CSS3](https://img.shields.io/badge/css3-FFB6C1.svg?style=for-the-badge\&logo=css3\&logoColor=white)          | ![GitHub](https://img.shields.io/badge/github-FF1493.svg?style=for-the-badge\&logo=github\&logoColor=white) |
-| ![Spring Data JPA](https://img.shields.io/badge/spring_data_jpa-FF69B4.svg?style=for-the-badge\&logo=spring\&logoColor=white)                                                                 |
-|        ![REST API](https://img.shields.io/badge/rest_api-FF69B4.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)       |                                                                                                                         |                                                                                                             |
-|            ![MySQL](https://img.shields.io/badge/mysql-FF69B4.svg?style=for-the-badge\&logo=mysql\&logoColor=white)           |                                                                                                                         |                                                                                                             |
-|           ![SQL](https://img.shields.io/badge/sql-FF69B4.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)           |                                                                                                                         |                                                                                                             |
-|          ![JUnit](https://img.shields.io/badge/junit_5-FF69B4.svg?style=for-the-badge\&logo=junit5\&logoColor=white)          |                                                                                                                         |                                                                                                             |
-|                  ![C](https://img.shields.io/badge/c-FF69B4.svg?style=for-the-badge\&logo=c\&logoColor=white)                 |                                                                                                                         |                                                                                                             |
+### 🌸 Front-End
+![HTML5](...)
+![CSS3](...)
+
+### 🌸 Ferramentas
+![Git](...)
+![GitHub](...)
 
