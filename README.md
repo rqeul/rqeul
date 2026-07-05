@@ -15,9 +15,9 @@
 
 Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar soluções que resolvam problemas reais e me permitam evoluir constantemente como desenvolvedora. Meu objetivo é me especializar em **desenvolvimento Back-End com Java**, criando aplicações robustas, organizadas e escaláveis.
 
-* 🌱 Atualmente estudando **Java, Spring Boot, Spring Data JPA, APIs REST, SQL e MySQL**, enquanto fortaleço meus conhecimentos em **HTML, CSS, JavaScript e Git**.
+* 🌱 Atualmente estudando **Java, Spring Boot, Spring Data JPA, APIs REST, SQL e MySQL**, enquanto fortaleço meus conhecimentos em **Git**.
 * 💻 Desenvolvendo projetos para praticar arquitetura em camadas, persistência de dados, validações, APIs REST e boas práticas de desenvolvimento.
-* 🎮 Fora do código, sou gamer por natureza e faço lives na roxinha: twitch.tv/chocogirl___ -> lá você encontrará gameplay de todo jogo possível!
+* 🎮 Fora do código, sou gamer por natureza! Adoro RPG's e MOBAS. Atualmente estou tentando zerar Elden Ring <3
 * 🎀 Adoro a estética coquette e acredito que a tecnologia também pode ter muito estilo.
 * 🤝 **Oportunidades:** Estou procurando uma oportunidade de estágio em **Desenvolvimento Back-End com Java** para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com projetos reais enquanto continuo aprendendo.
 
