@@ -25,21 +25,21 @@ Sou fascinada pela tecnologia e tudo o que ela pode oferecer! Busco criar soluç
 
 ### 🌸 Back-End
 
-![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF69B4?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FF69B4?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-FF69B4?style=for-the-badge&logo=junit5&logoColor=white)
-![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F4A6C1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F4A6C1?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-F4A6C1?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-F4A6C1?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F4A6C1?style=for-the-badge&logo=mysql&logoColor=white)
+![JUnit%205](https://img.shields.io/badge/JUnit_5-F4A6C1?style=for-the-badge&logo=junit5&logoColor=white)
+![C](https://img.shields.io/badge/C-F4A6C1?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌸 Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F4A6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F4A6C1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4A6C1?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🌸 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F4A6C1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F4A6C1?style=for-the-badge&logo=github&logoColor=white)
