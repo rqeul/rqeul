@@ -19,7 +19,7 @@ Sou apaixonada por tecnologia e por tudo o que ela torna possível. Gosto de cri
 
 Meu objetivo é me especializar em **Desenvolvimento Back-End com Java**, construindo aplicações limpas, escaláveis e bem estruturadas. Estou sempre em busca de aprender novas tecnologias e colocá-las em prática por meio de projetos pessoais.
 
-- 🌱 Atualmente estudando **Java, Spring Boot, Spring Data JPA, APIs REST, SQL e MySQL**, enquanto fortaleço meus conhecimentos em **HTML, CSS, JavaScript e Git**.
+- 🌱 Atualmente estudando **Java, Spring Boot, Spring Data JPA, APIs REST, SQL e MySQL**, enquanto fortaleço meus conhecimentos em **Git**.
 - 💻 Desenvolvendo projetos para praticar arquitetura em camadas, persistência de dados, APIs REST, validações, testes e princípios de código limpo.
 - 🎮 Fora do código, sou gamer e faço lives na Twitch: **twitch.tv/chocogirl___** — por lá você provavelmente vai me encontrar jogando de tudo um pouco.
 - 🎀 Adoro a estética coquette e acredito que a tecnologia também pode ter muito estilo.
@@ -41,7 +41,6 @@ Meu objetivo é me especializar em **Desenvolvimento Back-End com Java**, constr
 
 ![HTML5](https://img.shields.io/badge/HTML5-F4A6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-F4A6C1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4A6C1?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🌸 Ferramentas
 
