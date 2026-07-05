@@ -19,7 +19,7 @@ I'm passionate about technology and everything it makes possible. I enjoy buildi
 
 My goal is to specialize in **Back-End Development with Java**, creating clean, scalable, and well-structured applications. I'm always looking for opportunities to learn new technologies and put them into practice through personal projects.
 
-- 🌱 Currently learning **Java, Spring Boot, Spring Data JPA, REST APIs, SQL, and MySQL**, while strengthening my knowledge of **HTML, CSS, JavaScript, and Git**.
+- 🌱 Currently learning **Java, Spring Boot, Spring Data JPA, REST APIs, SQL, and MySQL**, while strengthening my knowledge of **Git**.
 - 💻 Building projects to practice layered architecture, data persistence, RESTful APIs, validation, testing, and clean code principles.
 - 🎮 Outside of coding, I'm a gamer and stream on Twitch: **twitch.tv/chocogirl___** — you'll probably find me playing all kinds of games.
 - 🎀 I love the coquette aesthetic and believe technology can have style too.
