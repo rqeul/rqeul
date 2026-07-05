@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-555?style=for-the-badge&logoColor=white" alt="Focus"/>
 <img src="https://img.shields.io/badge/BACK--END%20DEVELOPER%20%26%20LEARNING-F4A6C1?style=for-the-badge&logoColor=white" alt="Back-End Developer & Learning"/>
 <img src="https://img.shields.io/badge/JAVA%20%26%20SPRING-F4A6C1?style=for-the-badge&logoColor=white" alt="Java & Spring"/>
 <img src="https://img.shields.io/badge/GAMING-555?style=for-the-badge&logoColor=white" alt="Gaming"/>
