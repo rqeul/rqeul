@@ -4,9 +4,8 @@
   <br>
 
  
-  <img src="https://img.shields.io/badge/FOCUS-555?style=for-the-badge&logoColor=white" alt="Focus"/>
   <img src="https://img.shields.io/badge/BACK--END%20DEV%20%26%20LEARNING-FFB6C1?style=for-the-badge&logoColor=white" alt="Back-End Dev & Learning"/>
-  <img src="https://img.shields.io/badge/JAVA%20%26%20SQL-FF69B4?style=for-the-badge&logoColor=white" alt="Java & SQL"/>
+  <img src="https://img.shields.io/badge/JAVA%20%26%20SQL-FF69B4?style=for-the-badge&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/GAMING-555?style=for-the-badge&logoColor=white" alt="Gaming"/>
   <img src="https://img.shields.io/badge/SEEKING%20INTERNSHIPS-FF1493?style=for-the-badge&logoColor=white" alt="Seeking Internships"/>
 </div>
